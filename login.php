@@ -41,6 +41,7 @@ if(isset($_POST['submit'])){
 <!DOCTYPE html>
 <html>
 <head>
+   
 	<title>Kids Game Arena | Login</title>
 
 	<link rel="icon" type="image/x-icon" href="images/favicon.ico">
