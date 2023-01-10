@@ -14,7 +14,7 @@ Details of Contributors :
 	Implemented Functions  : Popular Games page, New Games page, Multiplayer Games page
 
 
-	Member ID              : Jayawardena.S.A
+	Member Name              : Jayawardena.S.A
 	Email                  : sadeeshaashan.j@gmail.com
 	Implemented Functions  : Subscription page , Payment Page
 
