@@ -3,6 +3,12 @@
 The purpose of creating this online web page is to make it easy for kids to choose games for many reasons. Games are included for a variety of reasons, such as for entertainment, educational basis, and to improve IQ levels. Users can easily handle this as it has a good 
 description of the site within the site itself. This is a site where everything is categorized so that the user can use it very easily according to their needs. And many special features can be obtained by using this site.
 
+
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a></div>
+
 The website is based on 9 main pages,
 
 1. Home
