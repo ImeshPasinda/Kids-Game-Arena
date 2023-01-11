@@ -6,9 +6,9 @@ description of the site within the site itself. This is a site where everything 
 
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/Screenshot%20(39).png" alt="Logo" width="1000" height="600">
   </a></div>
-
+</br>
 The website is based on 9 main pages,
 
 1. Home
